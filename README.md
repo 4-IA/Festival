@@ -13,7 +13,7 @@
     </td>
   </tr>
 </table>
-With purchases over $75, you receive all the gifts
+With purchases over $100, you receive all the gifts
 
 ---
 
