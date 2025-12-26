@@ -38,7 +38,7 @@ With purchases over $400, you receive all the gifts
       <img src="image/father.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День защитника Отечества</h3>
+      <h3 style="margin-top: 0;">Защитник</h3>
       <p>$0</p>
     </td>
   </tr>
@@ -53,7 +53,7 @@ With purchases over $400, you receive all the gifts
       <img src="image/woman.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Женский день</h3>
+      <h3 style="margin-top: 0;">Женский</h3>
       <p>$0</p>
     </td>
   </tr>
@@ -68,7 +68,7 @@ With purchases over $400, you receive all the gifts
       <img src="image/spring.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День весны и труда</h3>
+      <h3 style="margin-top: 0;">Первомай</h3>
       <p>$0</p>
     </td>
   </tr>
@@ -83,7 +83,7 @@ With purchases over $400, you receive all the gifts
       <img src="image/victory.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День Победы</h3>
+      <h3 style="margin-top: 0;">Победа</h3>
       <p>$0</p>
     </td>
   </tr>
@@ -98,7 +98,7 @@ With purchases over $400, you receive all the gifts
       <img src="image/child.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День защиты детей</h3>
+      <h3 style="margin-top: 0;">Детский</h3>
       <p>$0</p>
     </td>
   </tr>
@@ -113,7 +113,7 @@ With purchases over $400, you receive all the gifts
       <img src="image/russia.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День России</h3>
+      <h3 style="margin-top: 0;">День семьи</h3>
       <p>$0</p>
     </td>
   </tr>
@@ -128,7 +128,7 @@ With purchases over $400, you receive all the gifts
       <img src="image/family.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День семьи, любви и верности</h3>
+      <h3 style="margin-top: 0;">Россия</h3>
       <p>$0</p>
     </td>
   </tr>
@@ -143,7 +143,7 @@ With purchases over $400, you receive all the gifts
       <img src="image/knowledge.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День Знаний</h3>
+      <h3 style="margin-top: 0;">Знания</h3>
       <p>$0</p>
     </td>
   </tr>
@@ -158,12 +158,12 @@ With purchases over $400, you receive all the gifts
       <img src="image/unity.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День народного единства</h3>
+      <h3 style="margin-top: 0;">Единство</h3>
       <p>$0</p>
     </td>
   </tr>
 </table>
-Сюрприз-вместе: не про идеал, а про выбор — сегодня я выслушаю, сегодня я поддержу, сегодня я рядом
+Сюрприз-вместе: сегодня я выслушаю. Сегодня я поддержу. Сегодня я рядом — просто потому, что это важно.
 
 ---
 
@@ -178,7 +178,7 @@ With purchases over $400, you receive all the gifts
     </td>
   </tr>
 </table>
-Сюрприз-вместе: сегодня я выслушаю. Сегодня я поддержу. Сегодня я рядом — просто потому, что это важно.
+Сюрприз-встреча: звезда над Вифлеемом — и мгновение, когда вы вдруг чувствуете: да, свет пришёл. Он уже здесь. У вас под рукой.
 
 ---
 
@@ -193,7 +193,7 @@ With purchases over $400, you receive all the gifts
     </td>
   </tr>
 </table>
-Сюрприз-встреча: звезда над Вифлеемом — и мгновение, когда вы вдруг чувствуете: да, свет пришёл. Он уже здесь. У вас под рукой.
+Сюрприз-обновление: вода — и тишина после. В ней — ясность: да, можно начать заново. Это не усилие. Это дар.
 
 ---
 
@@ -208,7 +208,7 @@ With purchases over $400, you receive all the gifts
     </td>
   </tr>
 </table>
-Сюрприз-обновление: вода — и тишина после. В ней — ясность: да, можно начать заново. Это не усилие. Это дар.
+Сюрприз-встреча душ: взгляд в глаза другому — и вдруг узнавание. Что-то родное, светлое. Да, вы уже знали друг друга.
 
 ---
 
@@ -223,7 +223,7 @@ With purchases over $400, you receive all the gifts
     </td>
   </tr>
 </table>
-Сюрприз-встреча душ: взгляд в глаза другому — и вдруг узнавание. Что-то родное, светлое. Да, вы уже знали друг друга.
+Сюрприз-согласие: ваше тихое «да» тому, что ещё не видно, но уже живёт внутри. Вы чувствуете — и доверяете.
 
 ---
 
@@ -233,12 +233,12 @@ With purchases over $400, you receive all the gifts
       <img src="image/sunday.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Вербное воскресение</h3>
+      <h3 style="margin-top: 0;">Вербное</h3>
       <p>$0</p>
     </td>
   </tr>
 </table>
-Сюрприз-согласие: ваше тихое «да» тому, что ещё не видно, но уже живёт внутри. Вы чувствуете — и доверяете.
+Сюрприз-радость в пути: лёгкость в шаге, даже если конец дороги за поворотом. Вы идёте — и знаете: это важно. Прямо сейчас.
 
 ---
 
@@ -248,7 +248,7 @@ With purchases over $400, you receive all the gifts
       <img src="image/easter.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Пасха Христова</h3>
+      <h3 style="margin-top: 0;">Пасха</h3>
       <p>$0</p>
     </td>
   </tr>
