@@ -344,3 +344,18 @@ With purchases over $200, you receive all the gifts
   </tr>
 </table>
 Сюрприз-защита: тишина, в которой вы вдруг чувствуете — меня хранят. Не по заслугам. Просто потому, что я есть.
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="image/forgiven.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Прощеное</h3>
+      <p>$0</p>
+    </td>
+  </tr>
+</table>
+Сюрприз-обновление: прощение — не долг. Это дар. И он начинается с одного слова: «Прости меня». В нём свобода, как после дождя.
